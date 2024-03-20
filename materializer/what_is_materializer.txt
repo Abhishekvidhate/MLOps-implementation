@@ -1,0 +1,5 @@
+A materializer in this context is like a digital storage manager.
+It's responsible for saving important stuff, like:-
+  1.the results of our machine learning work, so we can use them later.
+  2.The file named custom_materializer.py contains instructions on
+  how to save this stuff, like putting it in a specific place on our computer or in the cloud.

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8853a79-12ba-4b14-9859-8f8fe34b2f55" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MLOps-Implementation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/olist_customers_dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/materializer/custom_materializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/materializer/what_is_materializer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/data_cleaning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/evaluation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model_development.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipelines/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipelines/deployment_pipeline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipelines/training_pipeline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipelines/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/deploy_project/run_deployment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/deploy_project/run_pipeline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/deploy_project/streamlit_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/steps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/steps/clean_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/steps/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/steps/evaluation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/steps/ingest_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/steps/model_train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/data_test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2de0BIxekd69Myx9BqnqFttaig9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/abhis/PycharmProjects/MLOps-Implementation"
+  }
+}]]></component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\abhis\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="85806c65-6933-4a90-a821-f0730ab7107e" reportId="MLOps-Implementation/qodana/2024-03-16" />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abhis\PycharmProjects\MLOps-Implementation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abhis\PycharmProjects\MLOps-Implementation\" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8853a79-12ba-4b14-9859-8f8fe34b2f55" name="Changes" comment="" />
+      <created>1710353101073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710353101073</updated>
+    </task>
+    <servers />
+  </component>
+</project>
